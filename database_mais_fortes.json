@@ -1,0 +1,8 @@
+{
+  "cartas": [
+    { "valor": "4", "naipe": "Paus", "nome": "Zap" },
+    { "valor": "7", "naipe": "Copas", "nome": "Copas" },
+    { "valor": "A", "naipe": "Espadas", "nome": "Espadilha" },
+    { "valor": "7", "naipe": "Ouros", "nome": "Ouros" }
+  ]
+}
