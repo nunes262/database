@@ -1,0 +1,17 @@
+{
+  "cartas": [
+    { "valor": "4", "naipe": "Copas" },
+    { "valor": "4", "naipe": "Espadas" },
+    { "valor": "4", "naipe": "Ouros" },
+    { "valor": "5", "naipe": "Copas" },
+    { "valor": "5", "naipe": "Espadas" },
+    { "valor": "5", "naipe": "Ouros" },
+    { "valor": "5", "naipe": "Paus" },
+    { "valor": "6", "naipe": "Copas" },
+    { "valor": "6", "naipe": "Espadas" },
+    { "valor": "6", "naipe": "Ouros" },
+    { "valor": "6", "naipe": "Paus" },
+    { "valor": "7", "naipe": "Paus" },
+    { "valor": "7", "naipe": "Espadas" }
+  ]
+}
